@@ -10,7 +10,6 @@ version_scheme = "no-guess-dev"
 
 [tool.ruff]
 line-length = 88
-target-version = "py310"
 
 exclude = [
     ".git",
